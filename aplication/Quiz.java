@@ -10,7 +10,7 @@ public class Quiz implements ActionListener {
                                     "Qual eh o meu jogador favorito?",
                                     "Em que ano foi o mundial de 2010?",
                                     "Quem eh o nosso salvador?",
-                                    "Quem criou o java?"
+                                    "Quem criou o java!?"
                                   };
 
         String [][] options =     {
